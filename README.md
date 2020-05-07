@@ -1,6 +1,6 @@
 Welcome to my digital profile.
-Personal Objective
-Dimension Data GAP2020 Intern
+#Personal Objective
+##Dimension Data GAP2020 Intern
 ### Header 3
 
 - Bulleted
