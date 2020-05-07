@@ -1,6 +1,5 @@
- Welcome to my Tsholofelo Rakomane's website.
-
-Tsholofelo Rakomane
+Welcome to my digital profile.
+Personal Objective
 Dimension Data GAP2020 Intern
 ### Header 3
 
